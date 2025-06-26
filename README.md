@@ -2,6 +2,8 @@
 
 A full-stack web application that helps users find recipes based on ingredients they have available. Built with Next.js frontend and Spring Boot backend, using the Spoonacular API for recipe data.
 
+🌐 **[Live Demo](https://recipe-search-xi.vercel.app/)** - Try it out now!
+
 ## 🚀 Features
 
 - **Ingredient-based Search**: Enter ingredients you have and discover recipes you can make
