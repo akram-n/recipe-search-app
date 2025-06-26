@@ -201,5 +201,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Next.js](https://nextjs.org/) for the amazing React framework
 - [Spring Boot](https://spring.io/projects/spring-boot) for the robust backend framework
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
-
----
